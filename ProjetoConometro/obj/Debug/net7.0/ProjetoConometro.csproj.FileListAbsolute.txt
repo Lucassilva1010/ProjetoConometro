@@ -1,0 +1,14 @@
+C:\Teste\ProjetoConometro\ProjetoConometro\bin\Debug\net7.0\ProjetoConometro.exe
+C:\Teste\ProjetoConometro\ProjetoConometro\bin\Debug\net7.0\ProjetoConometro.deps.json
+C:\Teste\ProjetoConometro\ProjetoConometro\bin\Debug\net7.0\ProjetoConometro.runtimeconfig.json
+C:\Teste\ProjetoConometro\ProjetoConometro\bin\Debug\net7.0\ProjetoConometro.dll
+C:\Teste\ProjetoConometro\ProjetoConometro\bin\Debug\net7.0\ProjetoConometro.pdb
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ProjetoConometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ProjetoConometro.AssemblyInfoInputs.cache
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ProjetoConometro.AssemblyInfo.cs
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ProjetoConometro.csproj.CoreCompileInputs.cache
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ProjetoConometro.dll
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\refint\ProjetoConometro.dll
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ProjetoConometro.pdb
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ProjetoConometro.genruntimeconfig.cache
+C:\Teste\ProjetoConometro\ProjetoConometro\obj\Debug\net7.0\ref\ProjetoConometro.dll
